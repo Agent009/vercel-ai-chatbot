@@ -36,24 +36,24 @@ export function ChatPanel({
 
   const exampleMessages = [
     {
-      heading: 'What are the',
-      subheading: 'trending memecoins today?',
-      message: `What are the trending memecoins today?`
+      heading: 'Explain the concept of',
+      subheading: 'artificial intelligence',
+      message: `Explain the concept of artificial intelligence in simple terms.`
     },
     {
-      heading: 'What is the price of',
-      subheading: '$DOGE right now?',
-      message: 'What is the price of $DOGE right now?'
+      heading: 'What are the benefits of',
+      subheading: 'NextJS over Vue?',
+      message: 'What are the benefits of using NextJS over Vue?'
     },
     {
-      heading: 'I would like to buy',
-      subheading: '42 $DOGE',
-      message: `I would like to buy 42 $DOGE`
+      heading: 'How can I improve my',
+      subheading: 'public speaking skills?',
+      message: `How can I improve my public speaking skills and overcome stage fright?`
     },
     {
-      heading: 'What are some',
-      subheading: `recent events about $DOGE?`,
-      message: `What are some recent events about $DOGE?`
+      heading: 'Describe the process of',
+      subheading: `creating a meme coin`,
+      message: `Describe the process of creating a meme coin.`
     }
   ]
 

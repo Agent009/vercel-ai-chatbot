@@ -4,6 +4,8 @@
     "format:write": "prettier --write \"{app,lib,components}/**/*.{ts,tsx,mdx}\" --cache",
     "format:check": "prettier --check \"{app,lib,components}**/*.{ts,tsx,mdx}\" --cache",
     "type-check": "tsc --noEmit",
+    "vercel:build": "vercel build",
+    "vercel:deploy": "vercel deploy --prod",
     "build": "next build",
     "dev": "next dev -p 3092 --turbo",
     "start": "next start -p 3092"
